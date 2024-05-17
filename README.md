@@ -96,3 +96,7 @@ git clone https://github.com/kdrag0n/proton-clang.git --depth 1
 - [AKR 安卓开发者社区](https://www.akr-developers.com/) ： 编译教程提供
 - [xiaoleGun/KernelSU_Action](https://github.com/xiaoleGun/KernelSU_Action) ： 借鉴部分 Github Action
 - [UtsavBalar1231/Drone-scripts](https://github.com/UtsavBalar1231/Drone-scripts) ： 借鉴部分 Github Action
+
+## 来源 
+frok的这位的 因为不需要ksu所以单独改了一个仓库
+https://github.com/DogDayAndroid/KSU_Thyme_BuildBot
