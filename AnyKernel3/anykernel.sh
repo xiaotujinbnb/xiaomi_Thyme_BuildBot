@@ -3,11 +3,8 @@
 
 ### AnyKernel setup
 # global properties
-
-# xiaotujinbnb/xiaomi_Thyme_BuildBot
-
 properties() { '
-kernel.string=兔子刷入内核 ak3
+kernel.string=tuzi kernel
 do.devicecheck=0
 do.modules=0
 do.systemless=1
